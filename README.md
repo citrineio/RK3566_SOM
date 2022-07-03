@@ -27,5 +27,6 @@ This project is inspired by [PINE64 SOQuartz SoM](https://wiki.pine64.org/wiki/S
 | NCEMAM8B-16G | 16GB eMMC | 
 | YT-8511C | 10/100/1000 Mbit Ethernet Phy |
 | AW-CM256SM | WIFI/BT Module |  
+|DF40C-100DS-0.4V(51)|Hirose 100 pin Connector|
 
 
