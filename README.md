@@ -19,9 +19,6 @@ In this project, I will design a Rockchip RK3566 System on Module (SoM) PCB with
 
 This project is inspired by [PINE64 SOQuartz SoM](https://wiki.pine64.org/wiki/SOQuartz). 
 
-|  |  |
-|--|--|--|
-|  |  |
 
 | Major Part# | Part Description | Schematics Symbol | Land Pattern | 3D Model
 |--|--|--|--|--|
