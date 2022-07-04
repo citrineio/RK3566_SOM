@@ -23,6 +23,7 @@ This project is inspired by [PINE64 SOQuartz SoM](https://wiki.pine64.org/wiki/S
 | Major Part# | Part Description | Schematics Symbol | Land Pattern | 3D Model
 |--|--|--|--|--|
 | RK3566| Quad-core Arm Cortex-A55 1.8 GHz processor |  |
+| RK-809| PMIC for RK3566 |  |
 | MT53B512M32D2DS-062|2GB LPDDR4 | |
 | NCEMAM8B-16G | 16GB eMMC | 
 | YT-8511C | 10/100/1000 Mbit Ethernet Phy |
