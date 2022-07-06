@@ -10,6 +10,6 @@ The parts are:
 | RK-809| Rockchip|PMIC for RK3566 |  |
 | MT53B512M32D2DS-062|Micron|2GB LPDDR4 | |
 | NCEMAM8B-16G | Foresee|16GB eMMC | 
-| YT-8511C | Motorcomm|10/100/1000 Mbit Ethernet Phy |
+| RTL8211F | Realtek|10/100/1000 Mbit Ethernet Phy |
 | AW-CM256SM | AzureWave|WIFI/BT Module |  
 |DF40C-100DS-0.4V(51)|Hirose| 100 pin Connector|
