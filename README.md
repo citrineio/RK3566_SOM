@@ -25,7 +25,7 @@ This project is inspired by [PINE64 SOQuartz SoM](https://wiki.pine64.org/wiki/S
 | RK3566| Quad-core Arm Cortex-A55 1.8 GHz processor | Done |
 | RK-809| PMIC for RK3566 |Done  |Done| Done
 | MT53B512M32D2DS-062|2GB LPDDR4 | Done |Done|Done
-| NCEMAM8B-16G | 16GB eMMC | Done 
+| NCEMAM8B-16G | 16GB eMMC | Done |Done|Done
 | RTL8211F | 10/100/1000 Mbit Ethernet Phy | Done| Done|Done
 | AW-CM256SM | WIFI/BT Module |  Done
 |DF40C-100DS-0.4V(51)|Hirose 100 pin Connector|Done|Done|Done
